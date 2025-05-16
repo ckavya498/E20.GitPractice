@@ -7,6 +7,8 @@ public class Print_Sr {
 		
 		System.out.println("Hello");
 		
+		System.out.println("Hi");
+		
 	}
 
 }
